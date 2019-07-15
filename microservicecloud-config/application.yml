@@ -10,7 +10,7 @@ spring:
   profiles:
     active: dev
   application:
-    name: microsevicecloud-config-atguigu-dev
+    name: microsevicecloud-config-aaaa-atguigu-dev
 
 ---
 
@@ -18,4 +18,4 @@ spring:
   profiles:
     active: test
   application:
-    name: microsevicecloud-config-atguigu-test
+    name: microsevicecloud-config-aaaa-atguigu-test
