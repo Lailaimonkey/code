@@ -8,11 +8,11 @@ spring:
 spring:
   profiles: dev
   application:
-    name: microsevicecloud-config-atguigu-dev
+    name: application-dev
 
 ---
 
 spring:
   profiles: test
   application:
-    name: microsevicecloud-config-atguigu-test
+    name: application-test
